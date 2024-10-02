@@ -3,7 +3,7 @@ import edu.sm.dto.Prod_Board;
 import edu.sm.service.Prod_BoardService;
 
 import java.util.Scanner;
-
+//test1
 public class insertBoard {
     public static void main(String[] args) {
         Prod_BoardService prodBoardService = new Prod_BoardService();

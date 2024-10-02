@@ -1,5 +1,5 @@
-package sm;
-
+package sm.Cust;
+//test1
 import edu.sm.dto.Cart;
 import edu.sm.service.CartService;
 
