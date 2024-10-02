@@ -1,5 +1,5 @@
 package sm.Manager;
-
+//test
 import edu.sm.service.CategoryService;
 
 public class DeleteCategory {
