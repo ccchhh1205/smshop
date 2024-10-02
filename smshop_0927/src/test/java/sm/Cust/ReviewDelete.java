@@ -1,5 +1,5 @@
 package sm.Cust;
-//test1
+//test
 import edu.sm.service.ReviewService;
 
 public class ReviewDelete {

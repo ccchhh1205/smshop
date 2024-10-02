@@ -1,5 +1,5 @@
 package sm.Cust;
-//test1
+//test
 import edu.sm.service.Prod_BoardService;
 
 import java.util.Scanner;
